@@ -1,0 +1,255 @@
+.container-background
+{
+    width:1300px;
+    height:500px;
+    background: url(https://static.vecteezy.com/system/resources/previews/005/157/645/non_2x/indian-flag-theme-republic-day-watercolor-texture-patriotic-background-free-vector.jpg) no-repeat center center fixed;
+     background-size:cover;
+}
+.red-message {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+.green-message {
+    color: rgb(10, 196, 10);
+    font-weight: bold;
+    align-items: center;
+    margin-left: 300px;
+}
+.nav .navitem
+{
+    margin-top: 90px;
+}
+.navbars
+{
+   background-color: pink;
+   background-image: url('https://wallpapers.com/images/hd/plain-lavender-gradient-water-drops-hqme0ol7hu9t6rdf.jpg');
+   height: 1200px;
+}
+.cards
+{
+    margin-top: -700px;
+    width: 700px;
+    margin-left: 300px;
+    opacity: 0.6;
+}
+.addcity
+{
+    margin-top: 150px;
+}
+.citycard
+{
+    width: 500px;
+    transition: box-shadow 0.3s ease;
+}
+.citycard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.btnss
+{
+    text-align: center;
+}
+.displaycitycard
+{
+    width: 600px;
+    margin-left: 520px;
+    margin-top: -230px;
+    transition: box-shadow 0.3s ease;
+}
+.displaycitycard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addconstituencycard
+{
+    width: 500px;
+    margin-left: 40px;
+    transition: box-shadow 0.3s ease;
+}
+.addconstituencycard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displayconstituencycard
+{
+    width: 700px;
+    margin-left: 600px;
+    margin-top: -300px;
+    transition: box-shadow 0.3s ease;
+}
+.displayconstituencycard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addpartycard
+{
+    width: 500px;
+    margin-left: 30px;
+    transition: box-shadow 0.3s ease;
+}
+.addpartycard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displaypartycard
+{
+    width: 700px;
+    margin-left: 590px;
+    margin-top: -320px;
+    transition: box-shadow 0.3s ease;
+}
+.displaypartycard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addadharstaffcard
+{
+    width: 1000px;
+    margin-left: 200px;
+    transition: box-shadow 0.3s ease;
+}
+.addadharstaffcard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displayadharstaffcard
+{
+    width: 1000px;
+    margin-left: 200px;
+    transition: box-shadow 0.3s ease;
+}
+.displayadharstaffcard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addelectionstaffcard
+{
+    width: 1000px;
+    margin-left: 200px;
+    transition: box-shadow 0.3s ease;
+}
+.addelectionstaffcard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displayelectionstaffcard
+{
+    width: 1200px;
+    margin-left: 60px;
+    transition: box-shadow 0.3s ease;
+}
+.displayelectionstaffcard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addelectiondatecard
+{
+    width: 900px;
+    margin-left: 200px;
+    transition: box-shadow 0.3s ease;
+}
+.addelectiondatecard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displayelectiondatecard
+{
+    width: 1200px;
+    margin-left: 50px;
+    transition: box-shadow 0.3s ease;
+}
+.displayelectiondatecard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addelectionresult
+{
+    width: 500px;
+    margin-left: 300px;
+    transition: box-shadow 0.3s ease;
+}
+.addelectionresult:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displayelectionresult
+{
+    width: 1200px;
+    margin-left: 60px;
+    transition: box-shadow 0.3s ease;
+}
+.displayelectionresult:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addadharcardholder
+{
+    width: 1000px;
+    margin-left: 200px;
+    transition: box-shadow 0.3s ease;
+}
+.addadharcardholder:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displayadharcardholder
+{
+    width: 1200px;
+    margin-left: 60px;
+    transition: box-shadow 0.3s ease;
+}
+.displayadharcardholder:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addvoterreg
+{
+    width: 1000px;
+    margin-left: 200px;
+    transition: box-shadow 0.3s ease;
+}
+.addvoterreg:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displayvoterreg
+{
+    width: 1200px;
+    margin-left: 60px;
+    transition: box-shadow 0.3s ease;
+}
+.displayvoterreg:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.addcandidatecard
+{
+    width: 1000px;
+    margin-left: 200px;
+    transition: box-shadow 0.3s ease;
+}
+.addcandidatecard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.displaycandidatecard
+{
+    width: 1200px;
+    margin-left: 60px;
+    transition: box-shadow 0.3s ease;
+}
+.displaycandidatecard:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.voterdisplaypage
+{
+    width: 1200px;
+    margin-left: 60px;
+    transition: box-shadow 0.3s ease;
+}
+.voterdisplaypage:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
